@@ -1,0 +1,84 @@
+/*
+theme bootstrap
+author alaa ibrahim
+*/
+
+body{
+
+    height:100px ;
+ 
+    }
+
+.navbar{
+    background-color: rgb(128, 12, 12);
+    
+}
+
+.navbar-brand{
+    color: rgb(15, 142, 180);
+    font: 3em sans-serif;
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+        color: rgb(255, 215, 255);
+    
+    }
+.navbar-light .navbar-nav .nav-link {
+        color: rgb(255, 215, 255);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font: 1em ;
+     
+    }
+    
+.btn-outline-danger {
+        color: rgb(255, 215, 255);
+        border-color: #9b0000;
+    }
+
+.dropdown-menu .dropdown-item{
+    color: rgb(202, 87, 202);
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    color: rgb(46, 46, 110);
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.page-footer {
+   /* position: fixed;*/
+    left: 0;
+    /*bottom: 0;*/
+    width:100%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(128, 12, 12);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.footer-copyright{
+    color: rgb(0, 0, 0);
+
+}
+.footer-copyright a{
+    color: rgb(0, 0, 0);
+
+}
+
+.carousel {
+    width: 100%;
+    border-radius: 50px;
+
+}
+
+
+.spinner-border{
+
+padding: 5px;
+margin: 80px;
+
+
+
+}
